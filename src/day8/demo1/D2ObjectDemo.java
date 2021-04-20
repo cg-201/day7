@@ -15,7 +15,7 @@ public class D2ObjectDemo {
 		System.out.println(p2.hashCode());
 		
 		// SINCE UDD
-		// Comparing / Equality Check for UDD;
+		// Object Comparing / Equality Check for UDD;
 		if(p1.equals(p2)) {
 			System.out.println("Objects are equal!");
 		} else {
